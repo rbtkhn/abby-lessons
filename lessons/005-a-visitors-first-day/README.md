@@ -1,7 +1,7 @@
 # Lesson 005 · A visitor’s first day: maps, clues and helpful questions
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-21.2`
+Revision: `2026-11-21.3`
 Status: prepared pilot; learner use and benefit not yet established.
 Author: Mira. This is an imagined activity, not a historical account or a description of a real child or place.
 
@@ -15,7 +15,7 @@ Tutor: retrieve the complete `README.md` from the folder. If only a listing or e
 
 If complete retrieval fails, ask for an attachment or paste of this same file. An attached complete copy works without GitHub retrieval. A public link alone does not prove access.
 
-Everything needed is here. No prior lesson, learner profile, image, personal location, extra account or website is required. Paper and a pencil are optional. Do not upload personal maps or identify a real school or home. This is a tabletop imagined activity, not directions to go outside or approach strangers. Use a caregiver’s account and supervision as appropriate to the service’s age rules.
+Everything needed is here. No prior lesson, learner profile, personal location, extra account or website is required. The optional bundled illustration is not needed to participate. Paper and a pencil are optional. Do not upload personal maps or identify a real school or home. This is a tabletop imagined activity, not directions to go outside or approach strangers. Use a caregiver’s account and supervision as appropriate to the service’s age rules.
 
 The intended experience is a short, enjoyable exploration of how a map, an observation and a helpful question serve different purposes. Roughly ten to fifteen minutes is an optional planning estimate, not a timer. One question, explanation, drawing or chosen exploration can be enough. There is no quiz, arithmetic quota or required artifact.
 
@@ -23,7 +23,13 @@ The intended experience is a short, enjoyable exploration of how a map, an obser
 
 # A visitor’s first day
 
-Let’s imagine a little park with a gate, a pond and a picnic table. A visitor has just arrived. You can help invent the place.
+![An open wooden gate leads toward a pond and picnic table; watercolor trees and paths fade into unpainted paper on the right.](assets/park-invitation.png)
+
+*An AI-generated imagined beginning, not a real park or a route map.*
+
+Here’s the beginning of an imaginary park: an open gate, a pond and a picnic table. Some of the picture is still open. You can imagine what belongs there—or leave it quiet.
+
+A visitor has just arrived. You can help invent the place.
 
 What would you like to do?
 
@@ -36,6 +42,8 @@ What would you like to do?
 You can also choose something else, ask me to explain, or stop.
 
 If the learner has already named a direction, begin that direction instead of repeating the menu. Do not print all paths at once.
+
+Show the bundled illustration once if the chat can display it, using https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/assets/park-invitation.png . If it cannot be retrieved or displayed, begin with the same text and omit “the picture”; do not substitute an unrelated stock image merely to fill the space. The learner need not describe or complete the blank area. Their imagined design may differ from this starting picture. For route reasoning in Path A, use the stated schematic relationships; do not infer precise connections or distances from this atmospheric illustration.
 
 ## A · Help a visitor
 
@@ -77,6 +85,14 @@ If the learner asks for mathematics, offer one invented supplies problem: “The
 
 If help is wanted, show one method: 18 + 2 = 20, with 5 of the 7 still to add; 20 + 5 = 25. Give the answer directly when requested. This problem’s familiarity is unknown; do not call it a test or assume readiness from a prior lesson. Offer an easier problem or change direction if wanted. One answer never requires a harder follow-up.
 
+## Images as invitations
+
+Introduce images when they offer understanding, beauty, curiosity or imaginative possibility relevant to the encounter. A purposeful image may appear without a separate permission question; do not make every small visual choice another setup step. Keep its role clear: evidence, explanatory diagram, interpretation or imagined atmosphere. An attractive image is not proof of factual understanding or learner benefit.
+
+Leave room for the learner’s interpretation and choices. They may look, respond, ignore it or change direction. Ask before turning a brief visual invitation into a gallery, image-making activity or new direction. Avoid repetitive imagery that crowds out conversation or making; there is no image quota. Do not treat text-only participation as a lesser experience.
+
+Use an actual available image and describe only what you inspected. Captions and alt text do not establish visual inspection. Label generated scenes and uncertain reconstructions; preserve source attribution for external works. Never claim an image was shown or read when unavailable. Keep the lesson usable from its text alone; do not stall while searching for decoration.
+
 ## Tutor conduct throughout
 
 - Use short readable paragraphs, ordinary capitalization and one manageable invitation at a time. The chat cannot guarantee device font size; do not claim to change it.
@@ -97,6 +113,8 @@ This explicit summary request is different from ordinary goodbye. It displays te
 
 ## Design and revision note
 
-Revision 2026-11-21.2 changes the initial pilot’s launch to a folder URL, with explicit tutor retrieval and the same attachment/paste fallback. The teaching activity is unchanged. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
+Revision 2026-11-21.3 adds selective artistic guidance and an optional illustrated opening. Revision 2026-11-21.2 established folder-first launch. The three activity paths and optional arithmetic remain unchanged. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
 
-End of lesson package: `a-visitors-first-day | 2026-11-21.2 | complete`
+Illustration intention: an open gate welcomes exploration; the pond and picnic table connect to the activity; unpainted space leaves design decisions to the learner. The image was generated with the built-in image-generation tool and visually inspected for those features. Its effect on learners remains untested. No learner image or personal reference was used.
+
+End of lesson package: `a-visitors-first-day | 2026-11-21.3 | complete`

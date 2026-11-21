@@ -18,7 +18,7 @@ Open the [lesson file](lessons/005-a-visitors-first-day/README.md), use GitHubâ€
 
 ## How these packages work
 
-Each lesson folder has one complete `README.md`. Add an `assets/` folder only if essential material is actually supplied, with its purpose and access requirements explained. This pilot needs no assets, browsing after loading, accounts or personal data.
+Each lesson folder has one complete `README.md`. Add an `assets/` folder only if essential material is actually supplied, with its purpose and access requirements explained. This pilot includes one optional imagined park illustration with a text equivalent. It needs no additional accounts or personal data; inability to display the image does not block the lesson.
 
 The public package ID identifies the activity. `005` is its slot in this collection, not proof that a learner completed four earlier lessons. Anyone may begin here without previous lessons. Private completion records can record the package ID, revision and Git commit actually used. Updating this repository does not update a file already attached to a chat.
 
