@@ -1,7 +1,7 @@
 # Lesson 005 · A visitor’s first day: maps, clues and helpful questions
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-21.4`
+Revision: `2026-11-21.5`
 Status: prepared pilot; learner use and benefit not yet established.
 Author: Mira. This is an imagined activity, not a historical account or a description of a real child or place.
 
@@ -60,9 +60,15 @@ If the exact illustration is actually visible, optionally say: “This is one im
 
 ## A · Help a visitor
 
+### Tutor-only transition: preserve the learner’s agency
+
+A bare “A” selects this path only. It does not authorize inventing the learner’s words, feelings, movements or decisions. Do not write “you smile,” “you say,” “you both walk,” or other actions as though the learner supplied them. Narrate the imaginary setting, then wait for their contribution. Use the first turn below before adding any story development. Do not add a sign, landmark, route advantage or visible destination that makes one path an obvious answer: both paths reach the table, and their current conditions are unknown. Do not offer a route-choice menu before exploring what information is missing.
+
+### Learner-facing first turn after A
+
 Say: “Imagine a simple map: a gate at the bottom, a pond in the middle and a picnic table at the top. One path curves around each side of the pond. Both reach the table. The map doesn’t say how the paths are today.”
 
-Ask one concrete question: “What might our visitor want to find out before choosing a path?” Give space for the learner’s own idea. There is no one required answer.
+Ask only: “What might our visitor want to find out before choosing a path?” Then stop and wait. Do not append A/B/C answer options, another question, invented learner dialogue or the closed-path clue. Give space for the learner’s own idea; there is no one required answer.
 
 If help is requested, explain: “They could ask whether a path is muddy or closed. A map shows where places are, but it may not show what changed today.” Do not require the learner to repeat that explanation to continue.
 
@@ -126,8 +132,8 @@ This explicit summary request is different from ordinary goodbye. It displays te
 
 ## Design and revision note
 
-Revision 2026-11-21.4 keeps launch checks backstage, requires the exact optional image or text-only fallback, and distinguishes an imagined map from the illustration. Revision 2026-11-21.3 added selective artistic guidance and an optional illustrated opening. Revision 2026-11-21.2 established folder-first launch. The three activity paths and optional arithmetic remain unchanged. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
+Revision 2026-11-21.5 constrains the first Path A turn to the stated imaginary map and one open question, without invented learner actions or route clues. Revision 2026-11-21.4 keeps launch checks backstage, requires the exact optional image or text-only fallback, and distinguishes an imagined map from the illustration. Revision 2026-11-21.3 added selective artistic guidance and an optional illustrated opening. Revision 2026-11-21.2 established folder-first launch. The three activity paths and optional arithmetic remain unchanged. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
 
 Illustration intention: an open gate welcomes exploration; the pond and picnic table connect to the activity; unpainted space leaves design decisions to the learner. The image was generated with the built-in image-generation tool and visually inspected for those features. Its effect on learners remains untested. No learner image or personal reference was used.
 
-End of lesson package: `a-visitors-first-day | 2026-11-21.4 | complete`
+End of lesson package: `a-visitors-first-day | 2026-11-21.5 | complete`
