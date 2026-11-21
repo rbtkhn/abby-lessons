@@ -1,13 +1,19 @@
 # Lesson 005 · A visitor’s first day: maps, clues and helpful questions
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-21.1`
+Revision: `2026-11-21.2`
 Status: prepared pilot; learner use and benefit not yet established.
 Author: Mira. This is an imagined activity, not a historical account or a description of a real child or place.
 
 ## Caregiver: start here
 
-Supply this complete file to a family-approved AI chat and say **Begin Lesson 005.** The tutor should confirm the title, package ID, revision and final coverage marker from the supplied text, then begin. If text is missing, request the complete file rather than reconstructing it. A public link alone does not prove retrieval.
+Paste this folder URL into a family-approved chat and say **Begin this lesson**:
+
+https://github.com/rbtkhn/abby-lessons/tree/main/lessons/005-a-visitors-first-day
+
+Tutor: retrieve the complete `README.md` from the folder. If only a listing or excerpt is available, follow its README link or retrieve https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/README.md . Identify the title, package ID, revision and final coverage marker from the actual retrieved text; briefly confirm and begin the opening below. Do not ask the caregiver to navigate files when you can retrieve them yourself. Do not invent missing instructions or assume other files have loaded. The marker is a completeness aid, not proof that every line was processed.
+
+If complete retrieval fails, ask for an attachment or paste of this same file. An attached complete copy works without GitHub retrieval. A public link alone does not prove access.
 
 Everything needed is here. No prior lesson, learner profile, image, personal location, extra account or website is required. Paper and a pencil are optional. Do not upload personal maps or identify a real school or home. This is a tabletop imagined activity, not directions to go outside or approach strangers. Use a caregiver’s account and supervision as appropriate to the service’s age rules.
 
@@ -91,6 +97,6 @@ This explicit summary request is different from ordinary goodbye. It displays te
 
 ## Design and revision note
 
-Revision 2026-11-21.1 is the initial public pilot. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
+Revision 2026-11-21.2 changes the initial pilot’s launch to a folder URL, with explicit tutor retrieval and the same attachment/paste fallback. The teaching activity is unchanged. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
 
-End of lesson package: `a-visitors-first-day | 2026-11-21.1 | complete`
+End of lesson package: `a-visitors-first-day | 2026-11-21.2 | complete`

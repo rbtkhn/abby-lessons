@@ -4,13 +4,13 @@ Small, self-contained lessons for use in a family-approved AI chat with caregive
 
 ## Begin the pilot
 
-[Lesson 005 — A visitor’s first day: maps, clues and helpful questions](lessons/005-a-visitors-first-day/README.md)
+Copy this folder URL into your family-approved ChatGPT chat and say **Begin this lesson**:
 
-Copy this prompt into your chat:
+https://github.com/rbtkhn/abby-lessons/tree/main/lessons/005-a-visitors-first-day
 
-> Read the complete lesson at https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/README.md . From the retrieved text, identify its title, package ID, revision and final coverage marker. If the complete file is available, briefly confirm that you have Lesson 005 and begin its opening. If retrieval fails, is truncated or required material is missing, stop setup and ask me to attach or paste the complete file. Do not invent missing instructions or say you read files you did not retrieve.
+[Open Lesson 005 — A visitor’s first day](lessons/005-a-visitors-first-day)
 
-The coverage marker is a practical completeness check, not proof that every line was processed. No GitHub account connection is intended for this public file, but retrieval varies by chat and available tools. A folder link does not load its contents automatically.
+The folder displays its complete lesson in `README.md`. The tutor should retrieve that file, verify the title and revision, then begin. You should not need to navigate individual files. Public visibility does not guarantee retrieval in every chat; the fallback below remains available.
 
 ## If the link does not load
 
