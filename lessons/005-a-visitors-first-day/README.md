@@ -1,9 +1,15 @@
 # Lesson 005 · A visitor’s first day: maps, clues and helpful questions
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-21.3`
+Revision: `2026-11-21.4`
 Status: prepared pilot; learner use and benefit not yet established.
 Author: Mira. This is an imagined activity, not a historical account or a description of a real child or place.
+
+## Tutor-only launch contract — do not recite
+
+A folder URL supplied as an invitation to this lesson means begin, unless the user explicitly asks for an audit, summary or verification report. Read the complete package and check identity, revision and final marker silently. If retrieval succeeds, go straight to the learner opening; at most say “Ready—let’s begin.” Do not print metadata tables, coverage markers, answer keys, worked solutions or a lesson outline at launch. If retrieval fails, explain that briefly and request the complete file.
+
+Sections labeled tutor-only guide behavior; they are not learner-facing narration. Use learner-facing passages selectively, not as a document to read aloud in full. Do not assume the learner is participating merely because an adult or tester opened this link.
 
 ## Caregiver: start here
 
@@ -11,7 +17,7 @@ Paste this folder URL into a family-approved chat and say **Begin this lesson**:
 
 https://github.com/rbtkhn/abby-lessons/tree/main/lessons/005-a-visitors-first-day
 
-Tutor: retrieve the complete `README.md` from the folder. If only a listing or excerpt is available, follow its README link or retrieve https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/README.md . Identify the title, package ID, revision and final coverage marker from the actual retrieved text; briefly confirm and begin the opening below. Do not ask the caregiver to navigate files when you can retrieve them yourself. Do not invent missing instructions or assume other files have loaded. The marker is a completeness aid, not proof that every line was processed.
+Tutor: retrieve the complete `README.md` from the folder. If only a listing or excerpt is available, follow its README link or retrieve https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/README.md . Check the title, package ID, revision and final coverage marker silently against the retrieved text, then begin the learner opening. Do not turn this check into a report unless explicitly requested. Do not ask the caregiver to navigate files when you can retrieve them yourself. Do not invent missing instructions or assume other files have loaded. The marker is a completeness aid, not proof that every line was processed.
 
 If complete retrieval fails, ask for an attachment or paste of this same file. An attached complete copy works without GitHub retrieval. A public link alone does not prove access.
 
@@ -19,7 +25,7 @@ Everything needed is here. No prior lesson, learner profile, personal location, 
 
 The intended experience is a short, enjoyable exploration of how a map, an observation and a helpful question serve different purposes. Roughly ten to fifteen minutes is an optional planning estimate, not a timer. One question, explanation, drawing or chosen exploration can be enough. There is no quiz, arithmetic quota or required artifact.
 
-## Tutor: begin with this
+## Learner-facing opening — say this, not the setup instructions
 
 # A visitor’s first day
 
@@ -27,7 +33,7 @@ The intended experience is a short, enjoyable exploration of how a map, an obser
 
 *An AI-generated imagined beginning, not a real park or a route map.*
 
-Here’s the beginning of an imaginary park: an open gate, a pond and a picnic table. Some of the picture is still open. You can imagine what belongs there—or leave it quiet.
+Let’s imagine a park with an open gate, a pond and a picnic table. There’s room for your own ideas—or we can leave some space quiet.
 
 A visitor has just arrived. You can help invent the place.
 
@@ -43,11 +49,18 @@ You can also choose something else, ask me to explain, or stop.
 
 If the learner has already named a direction, begin that direction instead of repeating the menu. Do not print all paths at once.
 
-Show the bundled illustration once if the chat can display it, using https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/assets/park-invitation.png . If it cannot be retrieved or displayed, begin with the same text and omit “the picture”; do not substitute an unrelated stock image merely to fill the space. The learner need not describe or complete the blank area. Their imagined design may differ from this starting picture. For route reasoning in Path A, use the stated schematic relationships; do not infer precise connections or distances from this atmospheric illustration.
+### Tutor-only image delivery rule
+
+The optional opening asset is exactly:
+https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/assets/park-invitation.png
+
+Display that exact asset once only if supported. Do not use image search, a stock-image carousel, a generated replacement or a proxy picture for this opening. A similar-looking park is not this asset. If the chat cannot display this exact image, omit the image and its caption and use the text opening unchanged. Do not delay the lesson for image troubleshooting. Do not claim visual inspection or successful display from the filename, alt text or intended description alone.
+
+If the exact illustration is actually visible, optionally say: “This is one imagined beginning. You can change it.” Its blank space is an invitation, not a task to complete. For Path A, describe the separate imaginary schematic below; this atmospheric picture does not establish exact routes or distances. Later imagery remains allowed under “Images as invitations,” but must fit the actual question and be described accurately.
 
 ## A · Help a visitor
 
-Say: “Our made-up map shows a gate at the bottom, a pond in the middle and a picnic table at the top. One path curves around each side of the pond. Both reach the table. The map doesn’t say how the paths are today.”
+Say: “Imagine a simple map: a gate at the bottom, a pond in the middle and a picnic table at the top. One path curves around each side of the pond. Both reach the table. The map doesn’t say how the paths are today.”
 
 Ask one concrete question: “What might our visitor want to find out before choosing a path?” Give space for the learner’s own idea. There is no one required answer.
 
@@ -113,8 +126,8 @@ This explicit summary request is different from ordinary goodbye. It displays te
 
 ## Design and revision note
 
-Revision 2026-11-21.3 adds selective artistic guidance and an optional illustrated opening. Revision 2026-11-21.2 established folder-first launch. The three activity paths and optional arithmetic remain unchanged. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
+Revision 2026-11-21.4 keeps launch checks backstage, requires the exact optional image or text-only fallback, and distinguishes an imagined map from the illustration. Revision 2026-11-21.3 added selective artistic guidance and an optional illustrated opening. Revision 2026-11-21.2 established folder-first launch. The three activity paths and optional arithmetic remain unchanged. The setting, dialogue and quantities are original invented teaching examples. Prepared wording supplies the opening, paths, help and boundaries; conversational responses are generated during use. No exact prepared/generated percentage or observed learning gain is claimed. Choose whether to continue based on the learner’s actual participation, not the folder number.
 
 Illustration intention: an open gate welcomes exploration; the pond and picnic table connect to the activity; unpainted space leaves design decisions to the learner. The image was generated with the built-in image-generation tool and visually inspected for those features. Its effect on learners remains untested. No learner image or personal reference was used.
 
-End of lesson package: `a-visitors-first-day | 2026-11-21.3 | complete`
+End of lesson package: `a-visitors-first-day | 2026-11-21.4 | complete`
