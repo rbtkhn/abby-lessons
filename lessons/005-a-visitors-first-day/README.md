@@ -1,7 +1,7 @@
 # Lesson 005 · Abby’s inventor workshop
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-24.2-public`
+Revision: `2026-11-24.3-public`
 Status: prepared lesson; not observed in learner use. This revision replaces the earlier park invitation before Abby begins.
 Author: Mira. Scenarios and quantities are teaching examples, not claims about Abby’s home or school.
 
@@ -112,6 +112,62 @@ Follow her idea. Accept a barrier, holder, different surface, rearrangement or a
 When her idea is clear, invite a prediction or help make one: what does she expect the design to do? At a later turn, offer one test: compare the same pencils on the same surface, first without the design and then with it. Count how many remain in place under the same gentle movement. Do not claim a real desk problem or actual test unless supplied or observed. If materials are unavailable, describe how she could compare the two arrangements and leave the result unknown.
 
 If an actual trial gives a useful result and she wants to continue, ask what she would keep or change. A successful first design needs no manufactured failure or mandatory second version. A sketch plus an explanation or test plan can finish this route. The core mathematics activity still follows.
+
+### Optional robot coaching within Path A
+
+Use this branch if Abby chooses a robot idea. Do not add a fourth opening option,
+require a robot after another design, or replace her robot with a barrier because
+it is easier for the tutor. The questions below are conditional coaching moves,
+not a script to recite or a checklist of required responses. Follow her actual
+words; skip anything she has already answered. Do not invent learner dialogue,
+feelings, actions or a successful test.
+
+If its purpose is not yet clear, ask: “What would you like your robot to do?”
+Then wait. If she wants it to catch pencils, say: “Let’s keep that robot idea.
+What part would you like to figure out first?” Then wait. If her robot has a
+different purpose, adapt the investigation to that purpose rather than forcing
+it into pencil-catching. Another invention, requested help or stopping remains
+welcome under the existing lesson scope.
+
+If she chooses a catching arm, ask: “What shape do you imagine the catching
+part having?” Wait for her idea. If she proposes a scoop or another form,
+follow it accurately; do not supply the shape and then credit her with inventing
+it. When useful, offer: “We can sketch your idea, or make a small paper model
+and move it by hand. Which would you like?” A sketch or test plan is enough
+without materials or physical building.
+
+If she chooses a scoop model and asks for help, say: “I can show you how to fold
+the sides of a paper scoop. You can decide its shape. Moving it ourselves will
+let us explore how it catches a pencil—it won’t be an automatic robot yet.”
+Give the requested demonstration directly. Do not require her to struggle or
+repeat the explanation before helping. If she chooses a different mechanism,
+help explore that mechanism without silently substituting the scoop.
+
+Before a suitable trial, ask one prediction question, such as “Where do you
+think the scoop needs to be?” Test gently on a tabletop with a pencil and a
+caregiver-supported setup if available; no dropping objects off a desk is
+required. The caregiver or learner may move the model by hand. Do not narrate
+an action as performed unless it actually was. Without a trial, help sketch the
+movement or plan how to check it, and leave the outcome unknown.
+
+After an actual trial, ask: “What happened?” Respond to that observation before
+offering another question. If she wants to continue, ask what she would keep or
+change. A successful first attempt needs no invented failure, and an unsuccessful
+attempt is information rather than proof she is not an inventor. Preserve whether
+a result was observed, reported or only predicted. The same model need not be
+rebuilt to earn completion.
+
+When relevant, explain: “For the robot to act by itself, it would also need a way
+to notice the pencil and move its arm. We’ve started exploring one part.” A hand-
+moved model or drawing can investigate a feature; it does not establish that a
+complete automatic robot works. Do not promise a functioning robot, introduce
+unrequested electronics or purchases, or imply that imagination supplies evidence.
+
+Keep her larger robot idea available while she chooses one manageable question.
+Use the existing optional anchor, “I want my idea to ___. My next small step is
+___,” only if useful. This is an alternative continuation of Path A, not another
+required project, physical test or mathematics exercise. Its supported completion,
+one core mathematics problem, pause and stopping rules remain unchanged.
 
 ## B · What can one sheet do?
 
@@ -290,4 +346,4 @@ available in another chat. Preparation does not update previously delivered
 copies or establish actual learner use or benefit.
 <!-- SHARED-END-SESSION:END -->
 
-End of lesson: a-visitors-first-day | 2026-11-24.2-public | complete
+End of lesson: a-visitors-first-day | 2026-11-24.3-public | complete
