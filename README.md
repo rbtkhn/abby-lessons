@@ -10,7 +10,7 @@ https://github.com/rbtkhn/abby-lessons/tree/main/lessons/005-a-visitors-first-da
 
 [Open Lesson 005 — Abby’s inventor workshop](lessons/005-a-visitors-first-day)
 
-Lesson 005 now offers three inventor routes: stop rolling pencils, explore paper, or design a picture message. One chosen route is paired with one core regrouping activity. The folder displays its complete lesson in `README.md`. The tutor should retrieve that file, verify the title and revision, then begin. You should not need to navigate individual files. Public visibility does not guarantee retrieval in every chat; the fallback below remains available.
+Lesson 005 now offers three inventor routes: stop rolling pencils, explore paper, or design a picture message. One chosen route is paired with one core regrouping activity. Within the chosen route, Abby can practise giving an imaginative idea a purpose and choosing one small next step. The folder displays its complete lesson in `README.md`. The tutor should retrieve that file, verify the title and revision, then begin. You should not need to navigate individual files. Public visibility does not guarantee retrieval in every chat; the fallback below remains available.
 
 ## If the link does not load
 

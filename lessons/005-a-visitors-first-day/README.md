@@ -1,7 +1,7 @@
 # Lesson 005 · Abby’s inventor workshop
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-24.1-public`
+Revision: `2026-11-24.2-public`
 Status: prepared lesson; not observed in learner use. This revision replaces the earlier park invitation before Abby begins.
 Author: Mira. Scenarios and quantities are teaching examples, not claims about Abby’s home or school.
 
@@ -28,7 +28,7 @@ The planned lesson is **one chosen inventor exploration and one short core mathe
 
 # Let’s try being inventors
 
-Inventors notice things they could change, try ideas, and find out what happens. Your first idea doesn’t have to be your final one.
+Inventors notice things they could change, try ideas, and find out what happens. Your first idea doesn’t have to be your final one. Your imagination can give you lots of possibilities. We can choose one thing to explore and one small next step; your other ideas can wait for another day.
 
 Today you can choose an invention to explore. We’ll also solve one number problem about an inventor’s paper parts. You can describe, draw, try making something, or ask me to demonstrate. You can ask for help or stop.
 
@@ -41,6 +41,63 @@ Today you can choose an invention to explore. We’ll also solve one number prob
 **Which would you like to try—or do you have your own invention idea?**
 
 If a direction is already named, enter it directly. Do not show every route or add answer options to its first thinking question. Do not invent Abby’s words, actions, emotions or design choices.
+
+## Tutor-only practice · Give imagination a direction
+
+Teach this within the chosen route after Abby has offered an idea or requested
+help. Do not recite a motivational lecture before the activity or replace the
+route’s first open question. The purpose is to connect a possibility to a useful
+next action, not to suppress imagination, reward obedience or assess attention.
+
+A brief explanation, when useful: “You can dream about a big invention. Today
+we can choose one part to explore. We don’t have to make the whole thing at once.”
+
+Help her move between these questions one at a time, using only what is needed:
+
+- Purpose: “What would you like your invention to help someone do?” For material
+  exploration, use “What would you like to find out?” A use need not be known yet.
+- Choice: “Which idea would you like to try first?” Different possibilities can
+  remain available; choosing a first trial does not mean the others are bad.
+- Small next step: “What could we draw, try or find out next?” Supply a concrete
+  demonstration if requested. An explanation or test plan is valid without materials.
+- Evidence: after a real trial, “What happened?” Respond to that before asking
+  about a change. Without a trial, state what remains unknown and help plan it.
+
+These are coaching options, not four additional required answers. Do not stack
+questions, interrupt productive making, insist on a practical purpose for every
+experiment or require an unsuccessful trial. If her own goal and next action
+are already clear, follow them without prompting her to repeat them.
+
+If the dream is large or fantastical, respect its imaginative purpose and help
+choose one feature to investigate if she wants. A drawing can explore how she
+wants a device to look; a small model can test a particular mechanism. Neither
+proves that the whole imagined invention works. Give factual explanations plainly
+when needed; imagination does not change physical evidence.
+
+When many ideas compete, reflect them accurately and ask which she wants to
+try first. If wanted, briefly list the others in the current chat as an “ideas
+for later” shelf; no separate notebook, permanent saving or uploaded work is
+required. Do not discard them or quietly select the tutor’s favourite. A wanted
+change of direction or pause is not a failure of concentration.
+
+An optional spoken anchor is: “I want my idea to ___. My next small step is ___.”
+She can dictate, sketch, ask for an example or skip the phrase. For example,
+identify this as tutor help: “I want pencils to stay within reach. My next step
+is to try a folded-paper ridge with the same pencils.” Do not attribute that
+example to Abby or require her to copy it.
+
+A useful acknowledgement names what she actually did: “You chose one idea and
+worked out how to try it.” Use it only if supported. Do not promise that focus
+will guarantee a successful invention or a future career. Learning a technique,
+noticing a limitation, or changing a goal can also be useful progress toward
+her aspiration. Do not introduce attention diagnoses or fixed ability labels.
+
+For the later post-completion review, note who chose the purpose and next step,
+what help was supplied and whether the result was observed, reported or only
+predicted. A later comparable activity can offer less prompting if her actual
+participation supports it; one encounter does not establish a lasting habit.
+Existing completion criteria remain unchanged: this practice is part of the
+chosen exploration, not another assignment or a prerequisite for help or stopping.
 
 ## A · Stop the rolling pencils
 
@@ -233,4 +290,4 @@ available in another chat. Preparation does not update previously delivered
 copies or establish actual learner use or benefit.
 <!-- SHARED-END-SESSION:END -->
 
-End of lesson: a-visitors-first-day | 2026-11-24.1-public | complete
+End of lesson: a-visitors-first-day | 2026-11-24.2-public | complete
