@@ -1,7 +1,7 @@
 # Lesson 005 · A visitor’s first day: maps, clues and helpful questions
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-23.7-public`
+Revision: `2026-11-23.8-public`
 Source activity revision: `2026-11-21.5`
 Status: prepared pilot; learner use and benefit not yet established.
 Author: Mira. This is an imagined activity, not a historical account or a description of a real child or place.
@@ -28,9 +28,12 @@ file. An attached packet works without GitHub; a link alone does not prove acces
 At the mathematics activity, display the exact companion assets/picnic-flags.png
 if supported. Its raw location is https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/assets/picnic-flags.png .
 If image display fails, use the complete text equivalent already included here.
-No additional learner profile or private context is needed to begin. A caregiver
-may supply optional personal continuity separately in their private chat; do not
-search for learner records or claim they were loaded. Never publish that context.
+Abby’s two approved learning connections are embedded in this complete file:
+place-making from Lesson 003 in Path C, and number-splitting from Lesson 001
+in mathematics. Hannah needs only this URL; no companion attachment or earlier
+lesson files are required. Use each connection only at its relevant activity,
+not as a recap at launch. Do not search for or claim access to private records.
+For another learner, omit the Abby-specific recollections and use fresh invitations.
 
 Everything needed is here. No prior lesson, learner profile, personal location, extra account or website is required. The optional flag diagram supports the mathematics; its complete text equivalent is included below. Paper and a pencil are optional. Do not upload personal maps or identify a real school or home. This is a tabletop imagined activity, not directions to go outside or approach strangers. Use a caregiver’s account and supervision as appropriate to the service’s age rules.
 
@@ -105,13 +108,19 @@ Enough for this park path: a question, a possible explanation, or listening. Do 
 
 ## C · Make a place
 
-Invite: “For this park, what would you like to include—or would you rather invent a different place?” Then wait.
+Invite: “Earlier, you suggested places for an imaginary city, including a playground. For this park, what would you like to include—or would you rather invent something different?” Then wait.
 
 Accept a drawing, description or dictated ideas; offer to sketch in words if
-help is wanted. If the learner has already named an idea, follow it directly.
-If a caregiver supplied a specific earlier place-making contribution privately,
-one brief connection can replace this generic invitation. Do not invent a past
-contribution, require recall, or assume an earlier choice is a lasting interest.
+help is wanted. Follow an already stated idea directly. No recollection of the
+earlier city, reuse of its features or return to its setting is required.
+
+Tutor-only basis and limit: the approved Lesson 003 review records Abby proposing
+a school, playground, homes and a farm within a tutor-built imagined city. Those
+earlier turns are absent from the retained partial transcript; this connection
+relies on the approved review, not a fresh full-conversation inspection.
+Independent authorship, offscreen help and present interest are not established.
+Carry forward her opportunity to shape a place, not an assumed lasting preference.
+For another learner, ask simply what they would like to include in their park.
 
 Let the learner choose two or three features, fewer if preferred. Repeat their choices accurately. Ask before adding a fictional animal or changing their design. No drawing upload is needed.
 
@@ -128,7 +137,7 @@ to develop, and stop adding invitations when the park portion is enough.
 
 Keep the mathematical continuity link separate: offer number-splitting only
 when discussing the existing 36 + 18 problem and when useful. Do not announce
-any supplied past-lesson connections at launch or turn them into recall tests.
+the two embedded past-lesson connections at launch or turn them into recall tests.
 Choosing A or B does not require completing Path C; choosing Path C does not
 require both artistic developments or both mathematical methods. The lesson
 still consists of one park exploration and one supported mathematics activity.
@@ -224,12 +233,23 @@ ten may help if wanted. Accept another valid strategy; do not require column
 notation or every step of this explanation. The number-splitting connection below
 is an alternative explanation of this same problem, not another required task.
 
-### Optional number-splitting explanation of the same problem
+### Optional connection to Abby’s earlier number-splitting
 
-If a strategy discussion or help is welcome, offer number-splitting as an
-alternative to the flag groups. Do not replace a valid method already chosen
-or require both methods. A caregiver-supplied earlier strategy may be acknowledged
-briefly if relevant, but prior lessons are not required and no recall test is used.
+Tutor-only basis and limit: retained Lesson 001 turn 11 contains Abby’s explanation
+of 24 − 9 by splitting nine into four and five to reach twenty first. Who typed
+or relayed the response and any offscreen help remain unknown. This is a recorded
+contribution, not evidence of present recall, independent mastery or transfer
+from subtraction to addition. No earlier conversation needs to be loaded.
+
+When a strategy discussion or help is welcome, optionally say:
+“Earlier, you described breaking a number into parts to reach a ten.
+We could try that here, or use the groups of flags.” Then wait.
+
+Do not insert this into the opening, ask her to remember or redo 24 − 9,
+or replace a valid method she has already chosen. Offer it as an alternative
+explanation of the same 36 + 18 problem; do not require both methods.
+If she does not remember, accept that and work with the current problem.
+For another learner, offer number-splitting without claiming a shared history.
 
 If the learner chooses this approach or requests a demonstration, explain:
 “We can split 18 into 4 and 14. Add 4 to 36 to reach 40, then add the remaining
@@ -386,4 +406,4 @@ available in another chat. Preparation does not update previously delivered
 copies or establish actual learner use or benefit.
 <!-- SHARED-END-SESSION:END -->
 
-End of lesson: a-visitors-first-day | 2026-11-23.7-public | complete
+End of lesson: a-visitors-first-day | 2026-11-23.8-public | complete
