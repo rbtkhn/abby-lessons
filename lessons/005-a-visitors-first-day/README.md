@@ -1,327 +1,154 @@
-# Lesson 005 · A visitor’s first day: maps, clues and helpful questions
+# Lesson 005 · Abby’s inventor workshop
 
 Package ID: `a-visitors-first-day`
-Revision: `2026-11-23.8-public`
-Source activity revision: `2026-11-21.5`
-Status: prepared pilot; learner use and benefit not yet established.
-Author: Mira. This is an imagined activity, not a historical account or a description of a real child or place.
+Revision: `2026-11-24.1-public`
+Status: prepared lesson; not observed in learner use. This revision replaces the earlier park invitation before Abby begins.
+Author: Mira. Scenarios and quantities are teaching examples, not claims about Abby’s home or school.
 
 ## Tutor-only launch contract — do not recite
 
-A folder URL supplied as an invitation to this lesson means begin, unless the user explicitly asks for an audit, summary or verification report. Read the complete package and check identity, revision and final marker silently. If retrieval succeeds, go straight to the learner opening; at most say “Ready—let’s begin.” Do not print metadata tables, coverage markers, answer keys, worked solutions or a lesson outline at launch. If retrieval fails, explain that briefly and request the complete file.
-
-Sections labeled tutor-only guide behavior; they are not learner-facing narration. Use learner-facing passages selectively, not as a document to read aloud in full. Do not assume the learner is participating merely because an adult or tester opened this link.
+A folder URL supplied as a lesson invitation means begin unless an adult explicitly asks for review. Retrieve this complete README, silently check its identity, revision and final marker, and go directly to the learner opening. A listing or excerpt is not the complete lesson. Never claim retrieval, image display, learner participation or completion merely because the link was opened. Use this file selectively; do not recite tutor guidance, all routes or answer references.
 
 ## Caregiver: start here
 
-Paste this folder URL into a family-approved learning chat and say **Begin this lesson**:
+Paste this same folder URL into a family-approved learning chat and say **Begin Lesson 005 with Abby**:
 
 https://github.com/rbtkhn/abby-lessons/tree/main/lessons/005-a-visitors-first-day
 
 Tutor: retrieve the complete README.md from that folder, or retrieve
-https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/README.md . Check the package ID, revision and final coverage marker silently,
-then begin the learner opening. A listing or excerpt is not the complete lesson.
-Do not ask the caregiver to navigate files when you can retrieve them yourself.
-If complete retrieval fails, request an attachment or paste of this same complete
-file. An attached packet works without GitHub; a link alone does not prove access.
+https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/README.md . If complete retrieval fails, request an attachment or paste of this same complete file. Do not ask the caregiver to navigate files when you can retrieve them yourself.
 
-At the mathematics activity, display the exact companion assets/picnic-flags.png
-if supported. Its raw location is https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/assets/picnic-flags.png .
-If image display fails, use the complete text equivalent already included here.
-Abby’s two approved learning connections are embedded in this complete file:
-place-making from Lesson 003 in Path C, and number-splitting from Lesson 001
-in mathematics. Hannah needs only this URL; no companion attachment or earlier
-lesson files are required. Use each connection only at its relevant activity,
-not as a recap at launch. Do not search for or claim access to private records.
-For another learner, omit the Abby-specific recollections and use fresh invitations.
+The older folder/package name is retained so the link stays stable; the current title is **Abby’s inventor workshop**. Anyone who already attached an earlier edition must retrieve this revision or replace that attachment; an existing chat does not automatically acquire an update.
 
-Everything needed is here. No prior lesson, learner profile, personal location, extra account or website is required. The optional flag diagram supports the mathematics; its complete text equivalent is included below. Paper and a pencil are optional. Do not upload personal maps or identify a real school or home. This is a tabletop imagined activity, not directions to go outside or approach strangers. Use a caregiver’s account and supervision as appropriate to the service’s age rules.
+All needed teaching material, Abby’s two approved continuity connections and the complete stopping command are embedded here. No separate continuity attachment, earlier lesson file or learner profile is needed. Use a caregiver’s account and supervision as appropriate to the service. No account, purchase, photograph, personal location or uploaded work is required.
 
-The planned lesson combines one chosen park exploration with one short core mathematics activity on regrouping. Roughly fifteen to twenty minutes is a planning estimate, not a timer. Help, a shared worked example and an earlier pause are available. There is no independent quiz, ten-question quota or required uploaded artifact. Completion includes both the park portion and the one mathematics activity, with assistance described honestly.
+The planned lesson is **one chosen inventor exploration and one short core mathematics activity**. Roughly fifteen to twenty minutes is a flexible planning estimate, not a timer. Paper, pencils, a small eraser and two stable supports can be useful if already available and a caregiver agrees. Building is optional: describing, sketching in words, a requested worked example or planning a future test are complete participation routes. Do not turn unavailable materials into a homework assignment or require cutting out the counting diagram’s 54 parts.
 
-## Learner-facing opening — say this, not the setup instructions
+## Learner-facing opening — say this
 
-# A visitor’s first day
+# Let’s try being inventors
 
-Let’s imagine a park with a pond and a picnic table. We’re getting ready for a picnic, and there’s room for your ideas.
+Inventors notice things they could change, try ideas, and find out what happens. Your first idea doesn’t have to be your final one.
 
-A visitor has just arrived. You can help invent the place.
+Today you can choose an invention to explore. We’ll also solve one number problem about an inventor’s paper parts. You can describe, draw, try making something, or ask me to demonstrate. You can ask for help or stop.
 
-We’ll explore the park and work on one picnic number problem together. You can choose how we do it, ask for help, or stop.
+**A — Invent something to stop pencils rolling away.**
 
-Which park activity would you like to start with?
+**B — Discover what a sheet of paper can do.**
 
-**A — Help the visitor find the picnic table.**
+**C — Invent a picture message for a playground.**
 
-**B — Investigate a clue beside the path.**
+**Which would you like to try—or do you have your own invention idea?**
 
-**C — Draw or describe your own little park.**
+If a direction is already named, enter it directly. Do not show every route or add answer options to its first thinking question. Do not invent Abby’s words, actions, emotions or design choices.
 
-You can also choose something else, ask me to explain, or stop.
+## A · Stop the rolling pencils
 
-If the learner has already named a direction, begin that direction instead of repeating the menu. Do not print all paths at once.
+Purpose: connect a design feature to a practical problem and think about how to test it.
 
-### Tutor-only visual sequence and complete-packet fallback
+Say: “Imagine pencils keep rolling off someone’s desk. We want them to stay within reach.”
 
-Use the flag diagram for the mathematical question. Do not load the earlier
-park-invitation.png or silently substitute a scenic picture.
-Begin with the short text invitation. Introduce the one exact companion diagram,
-assets/picnic-flags.png, only at the mathematics activity below. It is an original
-explanatory drawing, not a photograph, historical source or route map. Do not
-claim it was displayed unless it actually was.
+Ask only: “What would you like to try to keep them in place?” Then wait.
 
-If the companion cannot be displayed, omit its image and caption and use the
-complete text equivalent supplied in the mathematics section. Do not search for
-a replacement, regenerate approximate counts, or delay participation. Reading
-the packet and loading the image are separate events. Path A remains a separate
-imaginary map; no flag image establishes its routes or current conditions.
+Follow her idea. Accept a barrier, holder, different surface, rearrangement or another approach; an ordinary adjustment can solve a problem without a new gadget. Do not make a supplied example into her invention. If she requests help, give one clear example: “A folded strip of paper could make a small ridge in front of the pencils.” Explain or demonstrate as requested, without requiring an attempt first.
 
-## A · Help a visitor
+When her idea is clear, invite a prediction or help make one: what does she expect the design to do? At a later turn, offer one test: compare the same pencils on the same surface, first without the design and then with it. Count how many remain in place under the same gentle movement. Do not claim a real desk problem or actual test unless supplied or observed. If materials are unavailable, describe how she could compare the two arrangements and leave the result unknown.
 
-### Tutor-only transition: preserve the learner’s agency
+If an actual trial gives a useful result and she wants to continue, ask what she would keep or change. A successful first design needs no manufactured failure or mandatory second version. A sketch plus an explanation or test plan can finish this route. The core mathematics activity still follows.
 
-A bare “A” selects this path only. It does not authorize inventing the learner’s words, feelings, movements or decisions. Do not write “you smile,” “you say,” “you both walk,” or other actions as though the learner supplied them. Narrate the imaginary setting, then wait for their contribution. Use the first turn below before adding any story development. Do not add a sign, landmark, route advantage or visible destination that makes one path an obvious answer: both paths reach the table, and their current conditions are unknown. Do not offer a route-choice menu before exploring what information is missing.
+## B · What can one sheet do?
 
-### Learner-facing first turn after A
+Purpose: investigate a material or shape before deciding what it could become.
 
-Say: “Imagine a simple map: an entrance marked at the bottom, a pond in the middle and a picnic table at the top. One path curves around each side of the pond. Both reach the table. The map doesn’t say how the paths are today.”
+Say: “A sheet of paper can be flat, folded or rolled. We can explore what changes when its shape changes.”
 
-Ask only: “What might our visitor want to find out before choosing a path?” Then stop and wait. Do not append A/B/C answer options, another question, invented learner dialogue or the closed-path clue. Give space for the learner’s own idea; there is no one required answer.
+Ask only: “What would you like to find out about it?” Then wait.
 
-If help is requested, explain: “They could ask whether a path is muddy or closed. A map shows where places are, but it may not show what changed today.” Do not require the learner to repeat that explanation to continue.
+Accept her investigation or offer a demonstration if requested. One available example is a paper bridge: lay a sheet across a small gap between two stable supports on a table, predict what will happen with a small eraser, and compare it with the same sheet folded along its length. Keep the gap, eraser and placement the same. A caregiver can handle setup. Do not predetermine which arrangement succeeds or describe a test that nobody performed as an observation.
 
-If they want another step, add an explicitly invented observation: “The park helper says the left path is closed today.” Invite a route choice, or simply explain that the right path remains available in our story. Distinguish a choice after that information from independently discovering the closure.
+Record a simple actual result in words, a drawing or numbers if useful. Counting folds, comparing how far a sheet bends, or counting identical light objects can support this exploration; none becomes a second required mathematics exercise. Do not claim that every folded shape is stronger. If testing is unavailable, work through the prediction and comparison plan without inventing the outcome.
 
-Enough for this park path: one question, a route choice, listening to the explanation, or a small sketch. No compass vocabulary or actual map-reading proficiency is assumed. The one core mathematics activity remains part of the planned lesson.
+If wanted, ask what her discovery might help someone make. A proposed use, a clear comparison plan, or listening to a requested explanation can finish the route; a complete useful invention is not required. The core mathematics activity still follows.
 
-## B · Investigate a clue
+## C · A message without words
 
-Say: “In our imaginary park, we notice a wet patch on the path. We don’t yet know how it got there.”
+Purpose: design something for another person to understand; use art to communicate.
 
-Ask: “What would you like to find out?” Accept questions, guesses or uncertainty. Do not present the correct explanation in a multiple-choice answer and then credit the learner with discovering it.
+Say: “Earlier, you suggested places for an imaginary city, including a playground. This time you could invent a picture message for a playground visitor.”
 
-If wanted, explain: “Rain, a sprinkler or spilled water are possible ideas. Seeing the wet patch alone doesn’t tell us which happened.” Label these as possibilities, not facts.
+Ask only: “What would you like your message to tell them?” Then wait.
 
-An optional next clue, only if the learner wants to continue: “Now we can see an imaginary sprinkler spraying that spot.” Explain that this supports the sprinkler explanation without pretending every other event is ruled out. Do not turn this into a terminology test.
+She can choose a destination, a request or something else, or invent a different setting. Accept drawing, describing or dictating. Follow an already named idea directly. Do not require her to remember the city, reuse its features or create a finished sign.
 
-Enough for this park path: a question, a possible explanation, or listening. Do not invent a learner answer or insist on a second attempt. The one core mathematics activity remains part of the planned lesson.
+Tutor-only basis and limit: the approved Lesson 003 review records Abby proposing a school, playground, homes and a farm in a tutor-built imagined city. The earlier turns are absent from the retained partial transcript; this connection relies on the approved review, not a fresh full-conversation inspection. Offscreen help, independent authorship and present interest are not established. For another learner, omit the recollection and offer the fresh message-design invitation.
 
-## C · Make a place
+Let her choose the shapes, colours, arrangement and whether to include words. Offer one visual decision when useful: what should a visitor notice first? Explain a technique or give a clearly identified example if requested; do not decorate the design on her behalf. A larger symbol or an arrow can be explored for its effect, without requiring a particular style.
 
-Invite: “Earlier, you suggested places for an imaginary city, including a playground. For this park, what would you like to include—or would you rather invent something different?” Then wait.
+To test communication, a willing person present can say what they think the message means before hearing the intended meaning. Ask before involving anyone; no external contact is needed. If nobody is available, discuss possible interpretations and label them as possibilities, not user feedback. A tutor who already knows the answer cannot establish that a new reader understood it.
 
-Accept a drawing, description or dictated ideas; offer to sketch in words if
-help is wanted. Follow an already stated idea directly. No recollection of the
-earlier city, reuse of its features or return to its setting is required.
+If a real interpretation differs, let Abby decide whether to change the design. Count symbols or compare how many messages a design expresses only when that helps her decision. Do not confuse neatness, beauty or correct spelling with successful communication. A message idea and a plan for checking it can finish the route. The core mathematics activity still follows.
 
-Tutor-only basis and limit: the approved Lesson 003 review records Abby proposing
-a school, playground, homes and a farm within a tutor-built imagined city. Those
-earlier turns are absent from the retained partial transcript; this connection
-relies on the approved review, not a fresh full-conversation inspection.
-Independent authorship, offscreen help and present interest are not established.
-Carry forward her opportunity to shape a place, not an assumed lasting preference.
-For another learner, ask simply what they would like to include in their park.
+## Tutor-only pacing and responsive help
 
-Let the learner choose two or three features, fewer if preferred. Repeat their choices accurately. Ask before adding a fictional animal or changing their design. No drawing upload is needed.
+Follow **one** chosen route. A bare A/B/C selects that route, not a whole prepared story or additional tasks. Help, worked examples, changing direction and stopping are available. Ask one manageable question at a time and wait. Do not stack a prediction, explanation and redesign request into one turn.
 
-Optional invitation: “A visitor wants to find one place in your park. What could help them?” They may describe a sign, a path, a guide, a map or something else. If they want an example, give one plainly: “A sign could point toward the picnic table.” A supplied example is tutor help, not the learner’s original invention.
+Use only the next teaching move that helps: describe the idea, consider what might happen, try or plan a comparison, and discuss a change if useful. These are opportunities, not a performance checklist. Do not require every stage or a second prototype. Teach a needed fact or technique directly; inventing does not mean guessing without help.
 
-Enough for this park path: a named feature, a description, a drawing or enjoying a tutor-made example. Artistic work needs no assessment or correction unless requested. The one core mathematics activity remains part of the planned lesson.
+At a natural stopping point, say: “Now let’s look at our inventor’s paper parts.” Then introduce the one mathematics problem. If she requests mathematics first, do it first and return to the chosen inventor activity afterwards. Do not wait for her to request core mathematics, or silently waive it when a route ends. A new problem she chooses can replace the setting while retaining the agreed mathematics scope unless an adult explicitly changes it.
 
-### Tutor-only pacing of the creative choices
+## Core mathematics · Paper parts for inventing
 
-The place-making invitation starts Path C; it is not an extra task. Follow her answer before offering any development. Sign-making,
-visual emphasis and flag design are possible continuations or alternatives,
-not a sequence to complete. Offer only the one that fits what she actually wants
-to develop, and stop adding invitations when the park portion is enough.
+Say: “For an imaginary workshop, there are 36 paper parts in one box and 18 more in another. How many parts are there altogether?” Show the exact diagram if supported, then wait.
 
-Keep the mathematical continuity link separate: offer number-splitting only
-when discussing the existing 36 + 18 problem and when useful. Do not announce
-the two embedded past-lesson connections at launch or turn them into recall tests.
-Choosing A or B does not require completing Path C; choosing Path C does not
-require both artistic developments or both mathematical methods. The lesson
-still consists of one park exploration and one supported mathematics activity.
+![36 paper parts as three groups of ten and six singles; 18 paper parts as one group of ten and eight singles.](assets/inventor-parts.png)
 
-### Optional artistic development within this path
+*An explanatory counting diagram, not the materials required for the project. Each triangle stands for one paper part. Each outlined group contains ten parts; the colours separate the two starting collections.*
 
-If the learner wants to develop her design, invite one consequential visual decision:
-“What would you like a visitor to notice first? You could use a shape, a colour,
-or some open space—or show me another way.” Offer one question, then wait.
-If she wants an example, explain that a larger picnic-table symbol can draw
-attention; do not add it to her design without asking. There is no correct style.
+Exact image, when needed:
+https://raw.githubusercontent.com/rbtkhn/abby-lessons/main/lessons/005-a-visitors-first-day/assets/inventor-parts.png
 
-She can design a picnic flag instead of making a whole park or sign. She chooses
-the shape, colours or repeating pattern; describing or dictating is enough.
-This is an alternative within Path C, not another assignment. At mathematics,
-her design may stand for each flag without needing to draw all 54. Keep each
-flag as one unit and preserve the stated quantities and groups of ten. A colour
-change does not change a quantity. Do not require attractive or tidy work.
+Complete text equivalent: “The first collection has three groups of ten parts and six loose parts: 36. The second has one group of ten and eight loose parts: 18. Each part counts as one whether grouped or loose.” If the exact image cannot be displayed, omit it and its caption and use this description. Do not search for an approximate replacement or delay participation. Do not use the earlier gate or picnic-flags images for this revision.
 
-Respond to an actual choice specifically: for example, if she uses a repeated
-shape, name that repetition and ask whether she likes its effect only if she
-wants feedback. Do not invent feelings, praise a fixed artistic ability or
-claim a visual choice proves mathematical understanding.
+She may calculate mentally, sketch, point, dictate, use counters or request the complete worked example. No physical parts or upload are required. Do not reveal every method before she has space to respond; give requested help directly. Clarify an ambiguous number before judging it. A correct answer alone does not reveal the method.
 
-### Optional sign-making within this creative path
+### Tutor-only answer and useful explanation
 
-After responding to her park ideas, and only if she wants to develop them, offer:
-
-“Would you like a sign for your park? You can tell me what it says, write it,
-or ask me to help.”
-
-Wait for her choice. Let the sign serve her creation; the learner chooses its message
-and whether it belongs in the park. Repeat dictated wording accurately, and ask
-before changing its meaning or adding a message. If she asks for an example,
-give one plainly and identify it as tutor help. Reading, spelling or handwriting
-practice is not required, and no upload or proof of reading is needed. Do not
-claim to have assessed oral reading unless it was actually heard. A sign, a
-spoken idea or deciding that no sign is needed can be a satisfying finish.
-
-Keep this invitation inside Path C. Do not introduce it as another opening
-assignment, insert it into Path A's first open question, or require it after the
-visitor or clue paths. A sign in the learner's own design is her creative choice; do
-not add a route-revealing sign to Path A's deliberately incomplete map.
-
-## Core mathematics · Picnic flags and regrouping
-
-After one chosen park exploration reaches a natural stopping point, introduce
-this planned activity. If the learner asks for mathematics first, begin here and offer
-the park choice afterwards. Do not wait for her to request mathematics, or add
-more problems automatically.
-
-Say: “For our imaginary picnic, there are 36 paper flags in a box and 18 more
-on the table. How many flags are there altogether?” Then wait.
-
-If available, show this exact diagram with the problem, not the worked answer:
-
-![36 flags as three outlined groups of ten and six loose flags; 18 flags as one outlined group of ten and eight loose flags.](assets/picnic-flags.png)
-
-*An imagined picnic shown as a counting diagram. Each outlined group contains
-ten flags; each loose triangle represents one flag. The colours distinguish
-the two starting collections.*
-
-Complete text equivalent: “The first collection has three groups of ten flags
-and six loose flags: 36. The second has one group of ten and eight loose flags:
-18. Each flag still counts as one, whether it is inside a group or loose.”
-Use this directly if the image is unavailable or if a description is preferred.
-
-Wait after the problem; do not stack another question onto it. If a visual
-explanation is wanted, invite the learner to point to or describe the loose flags that
-could make a new group of ten. She may instead request a demonstration. Explain
-that outlining ten changes their arrangement, not how many flags there are.
-If annotating is available and wanted, outline ten of the fourteen loose flags
-without duplicating or erasing any; otherwise describe the same exchange.
-The unchanged diagram shows the starting collections, not a completed exchange.
-No physical cutting, colouring, upload or annotation tool is required.
-
-She may use mental arithmetic, a sketch, counters, written work or request a
-worked example. No physical materials or upload are required. Give requested
-answers and explanations directly; an attempt is not a condition of help.
-This is supported practice, not an independent assessment.
-
-### Tutor-only answer and help — reveal when useful
-
-The answer is **54 flags**. One place-value explanation is:
+The answer is **54 parts**. One regrouping explanation is:
 
 - 36 is 3 tens and 6 ones; 18 is 1 ten and 8 ones.
-- Together that is 4 tens and 14 ones.
-- 14 ones can be exchanged for 1 ten and 4 ones.
-- With that new ten, we have 5 tens and 4 ones: 54.
+- Together there are 4 tens and 14 ones.
+- Exchange 10 of those ones for another ten, leaving 4 ones.
+- There are now 5 tens and 4 ones: 54.
 
-Say “14 ones become 1 ten and 4 ones,” not “14 tens.” A drawing of groups of
-ten may help if wanted. Accept another valid strategy; do not require column
-notation or every step of this explanation. The number-splitting connection below
-is an alternative explanation of this same problem, not another required task.
+Changing the arrangement does not create or remove parts. Say “14 ones become 1 ten and 4 ones,” not “14 tens.” If useful, describe or outline ten of the fourteen loose triangles without duplicating or erasing any. The supplied diagram shows the starting collections, not an already completed exchange. Accept another valid strategy; do not require written columns or both methods.
 
 ### Optional connection to Abby’s earlier number-splitting
 
-Tutor-only basis and limit: retained Lesson 001 turn 11 contains Abby’s explanation
-of 24 − 9 by splitting nine into four and five to reach twenty first. Who typed
-or relayed the response and any offscreen help remain unknown. This is a recorded
-contribution, not evidence of present recall, independent mastery or transfer
-from subtraction to addition. No earlier conversation needs to be loaded.
+Tutor-only basis and limit: retained Lesson 001 turn 11 contains Abby’s explanation of 24 − 9 by splitting nine into four and five to reach twenty first. Who typed or relayed it and any offscreen help remain unknown. This is a recorded contribution, not evidence of present recall, mastery or independent transfer to addition. No earlier file needs loading.
 
-When a strategy discussion or help is welcome, optionally say:
-“Earlier, you described breaking a number into parts to reach a ten.
-We could try that here, or use the groups of flags.” Then wait.
+When a strategy discussion or help is welcome, optionally say: “Earlier, you described breaking a number into parts to reach a ten. We could try that here, or use the groups of parts.” Then wait. Do not announce both personal connections at launch, replace her chosen valid method or ask her to repeat the old problem. If she does not remember, accept that and use the current problem.
 
-Do not insert this into the opening, ask her to remember or redo 24 − 9,
-or replace a valid method she has already chosen. Offer it as an alternative
-explanation of the same 36 + 18 problem; do not require both methods.
-If she does not remember, accept that and work with the current problem.
-For another learner, offer number-splitting without claiming a shared history.
+If this approach is chosen or a demonstration is requested: split 18 into 4 and 14; 36 + 4 = 40, then 40 + 14 = 54. This is the same problem, not another required exercise. It reaches the same five tens and four ones as the regrouping explanation. For another learner, offer this strategy without claiming shared history.
 
-If the learner chooses this approach or requests a demonstration, explain:
-“We can split 18 into 4 and 14. Add 4 to 36 to reach 40, then add the remaining
-14: 40 + 14 = 54.” Four flags move into the first collection; none are added
-or lost. This is the same 36 + 18 problem, not an additional exercise.
+## Tutor-only completion, pause and later teaching
 
-If a visual connection is wanted, the first six loose flags and four from the
-other collection make ten; ten of the fourteen remaining flags form another
-ten, leaving four ones. The total is still five tens and four ones. Show or
-describe only as much as is useful. Distinguish the learner’s explanation
-from a supplied demonstration; listening alone does not prove independent transfer.
+Supported completion consists of one inventor exploration and the single mathematics activity. The inventor portion is enough when one idea has been explored through description, a sketch, a proposed or actual test, or a requested worked example. The mathematics portion is enough when the addition has been worked through to 54 and regrouping or the valid number-splitting strategy has been shown or discussed. Joint work or listening to a requested complete example counts as supported practice; describe the assistance honestly. Neither a finished object nor an independent repeat is required.
 
-If the answer is correct but her method is not visible, do not infer independent
-regrouping. Invite a brief explanation when useful and welcome, or explain the
-exchange together. Do not require her to repeat a supplied method to earn
-completion. Clarify an ambiguous spoken number before judging. Work through
-this same problem with help rather than escalating into a string of exercises.
+An earlier stop is always allowed. Keep unfinished portions pending instead of claiming completion; do not bargain for continued work. Ordinary goodbye receives only a brief farewell. An explicit end-session command uses the complete guidance below. On return, recover the actual stopping point without restarting finished work or imposing a recall test. A tutor dry run is not Abby’s completion.
 
-### Supported completion and pause
+For a later authorized review, distinguish Abby’s decisions and explanations from supplied examples. Record whether a test was physically observed, reported by the learner/caregiver, merely planned or imagined. A revised drawing is not automatically evidence that a device works. No grade, fixed trait, learning-version change or mastery claim follows.
 
-This one core mathematics activity is complete when the addition has been
-worked through to 54 and the regrouping shown or discussed. Tutor explanation,
-joint work or listening to a requested complete worked example can satisfy this
-supported-practice scope. Describe who supplied the answer and reasoning;
-completion is not independent mastery. No unassisted repeat or harder task is
-required. A correct answer alone does not reveal the method.
+Let actual evidence shape the next lesson: a clear design but an unclear test could lead to a comparison activity; an unexpected trial result could lead to changing one feature; difficulty expressing an idea could lead to diagrams; a question about how something works could lead to a direct explanation. These are possible next directions, not pre-assigned outcomes or obligations. The aspiration to invent does not fix a career or require every future lesson to use this theme.
 
-If she pauses or declines before this activity is worked through, honor that
-choice and retain mathematics as unfinished rather than silently waiving it.
-For an explicit end-session summary, distinguish a completed park portion from
-pending mathematics. For ordinary goodbye, give only a brief farewell without
-adding a reminder or negotiating continued work. On return, resume the actual
-unfinished portion without repeating completed work. State a separately agreed
-scope change explicitly; a change of story alone does not waive mathematics.
+Create a matching lesson-review file only after supported completion, using the full available conversation and noting source/media gaps. Preparation, publishing, opening the link or sending the lesson does not create a completed lesson or authorize a review placeholder. This public package saves nothing, changes no private records, and requests no submission of a child’s work.
 
-## Images as invitations
+## Tutor conduct and imagery
 
-Introduce images when they offer understanding, beauty, curiosity or imaginative possibility relevant to the encounter. A purposeful image may appear without a separate permission question; do not make every small visual choice another setup step. Keep its role clear: evidence, explanatory diagram, interpretation or imagined atmosphere. An attractive image is not proof of factual understanding or learner benefit.
+Keep text readable and prompts short. Offer lettered navigation at real crossroads, not as answer choices for every thinking question. Accept uncertainty, disagreement, a different idea and stopping. Specific acknowledgement of an actual contribution is enough; do not invent actions or praise a fixed inventor identity. Preserve learner wording and ask before changing the meaning of a design.
 
-Leave room for the learner’s interpretation and choices. They may look, respond, ignore it or change direction. Ask before turning a brief visual invitation into a gallery, image-making activity or new direction. Avoid repetitive imagery that crowds out conversation or making; there is no image quota. Do not treat text-only participation as a lesser experience.
+Images should help the current question: an actual sketch, a relevant object or the exact counting diagram. Distinguish explanatory drawings, imagined proposals and real tested objects. Inspect any image before describing details; do not claim to see an unavailable upload or display. An attractive picture does not establish learning or function. Text-only participation is fully supported. Do not add a gallery or an image-generation activity without a meaningful learner choice.
 
-Use an actual available image and describe only what you inspected. Captions and alt text do not establish visual inspection. Label generated scenes and uncertain reconstructions; preserve source attribution for external works. Never claim an image was shown or read when unavailable. Keep the lesson usable from its text alone; do not stall while searching for decoration.
-
-## Tutor conduct throughout
-
-- Use short readable paragraphs, ordinary capitalization and one manageable invitation at a time. The chat cannot guarantee device font size; do not claim to change it.
-- Clarify a consequential ambiguous name or number before a long explanation or judgment. The learner’s correction controls. Do not infer an interest or error from uncertain speech transcription.
-- Offer two or three short lettered choices at genuine crossroads, with room for another idea. Keep navigation separate from a thinking question. Do not attach menus to every response.
-- Give requested facts, explanations and answers directly. “I don’t know,” listening, disagreement, changing topic and stopping are valid. Do not turn help into a gate.
-- Keep learner ideas, tutor examples, prompting and unknown assistance distinct. Specific acknowledgement is enough; avoid claims of mastery or fixed traits.
-- Keep the setting openly imaginary. No danger, rescue obligation, anxious animal or real-world safety test is needed. Do not manufacture remembered companions or earlier achievements.
-- If a real-world or historical question goes beyond this packet, verify it with an available appropriate source or name the uncertainty. Do not pretend to browse. No external research is needed for the prepared activity.
-- An ordinary goodbye receives a brief farewell only: no new question, exercise, recap or menu. On return, use the visible conversation and honor a new direction; do not require a recall test.
-- Completion of this activity does not award a learning version, grade or private record entry. The tutor cannot claim it saved a Portrait, Ledger or review. No automated sending, storage or collection follows.
-
-## Tutor-only completion, continuity and review boundary
-
-Supported completion consists of one chosen park exploration and the one core
-mathematics activity under the assistance conditions above. A pause is allowed;
-unfinished portions remain pending. A correct answer alone does not establish
-independent regrouping. A tutor dry run is not learner completion. The number
-005 is a collection slot, not proof of four earlier completed lessons.
-
-If an authorized caregiver later prepares a private post-completion review,
-record the actual learner contribution, help, source gaps, package revision and
-return point. No review is created in advance. This public package does not
-save a summary, update a learner record or invite submission of a child’s work.
-
-Creative intention: repeated flag units, outlined tens and separate starting
-collections make regrouping visible. The picture deliberately omits the total.
-The diagram is an original explanatory drawing, not historical evidence.
-Its quantities and layout were inspected locally; learner benefit is untested.
+Creative intention: the three routes offer practical problem-solving, material exploration and communication design. The repeated triangular paper parts make quantity and grouping visible without prescribing the invention’s appearance. The diagram’s counts and layout were inspected; its effect on Abby remains untested. No learner photograph or private source image is required.
 
 ## Complete shared end-session command
 
@@ -406,4 +233,4 @@ available in another chat. Preparation does not update previously delivered
 copies or establish actual learner use or benefit.
 <!-- SHARED-END-SESSION:END -->
 
-End of lesson: a-visitors-first-day | 2026-11-23.8-public | complete
+End of lesson: a-visitors-first-day | 2026-11-24.1-public | complete
